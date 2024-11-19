@@ -1,1 +1,1 @@
-Verschillende dinegen proberen met Snake.
+Verschillende dingen proberen met Snake.
